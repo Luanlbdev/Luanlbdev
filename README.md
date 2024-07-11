@@ -1,7 +1,11 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/> 
+### Hi, I'm Luan Ribeiro 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Hello%2C+my+name+is+Luan;I'm+from+Brazil;I'm+20+years+old;I'm+studying+data+science)](https://git.io/typing-svg)
+[![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luaan_lb/)
 
-### Main skills: 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; 
+![Luan GitHub stats](https://github-readme-stats.vercel.app/api?username=luanlbdev&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luanlbdev)](https://github.com/anuraghazra/github-readme-stats)
+
+### My skills: 
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp; 
 ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
